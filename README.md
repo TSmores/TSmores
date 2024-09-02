@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Finance
 - 🌱 I’m currently learning ... To code
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... tommy.d@me.com
+- 📫 How to reach me ... 
 
 <!---
 TSmores/TSmores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
