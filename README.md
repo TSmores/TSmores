@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TSmores
-- 👀 I’m interested in ... Finance
+- 👀 I’m interested in ... Finance and Data
 - 🌱 I’m currently learning ... To code
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
